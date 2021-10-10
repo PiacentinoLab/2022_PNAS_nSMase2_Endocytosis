@@ -1,0 +1,1 @@
+PSM is A, S1/D1 is B, S2/D2 is C and S3/D3 is D with Rep meaning replicate 1, 2 or 3.
