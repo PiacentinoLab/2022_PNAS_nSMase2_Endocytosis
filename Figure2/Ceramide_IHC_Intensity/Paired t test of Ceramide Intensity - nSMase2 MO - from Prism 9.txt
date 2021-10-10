@@ -1,0 +1,26 @@
+"Table Analyzed"	"Ceramide Intensity (Norm)"
+	
+"Column B"	"nSMase2 MO"
+vs.	vs.
+"Column A"	"Control MO"
+	
+"Paired t test"	
+"    P value"	0.0051
+"    P value summary"	**
+"    Significantly different (P < 0.05)?"	Yes
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=3.683, df=9"
+"    Number of pairs"	10
+	
+"How big is the difference?"	
+"    Mean of differences (B - A)"	-0.1621
+"    SD of differences"	0.1392
+"    SEM of differences"	0.04401
+"    95% confidence interval"	"-0.2616 to -0.06251"
+"    R squared (partial eta squared)"	0.6011
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.7332
+"    P value (one tailed)"	0.0079
+"    P value summary"	**
+"    Was the pairing significantly effective?"	Yes

@@ -1,0 +1,26 @@
+"Table Analyzed"	"Migration Areas (Norm) - LOF"
+	
+"Column B"	"nSMase2 MO"
+vs.	vs.
+"Column A"	"Control MO"
+	
+"Paired t test"	
+"    P value"	<0.0001
+"    P value summary"	****
+"    Significantly different (P < 0.05)?"	Yes
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=8.294, df=26"
+"    Number of pairs"	27
+	
+"How big is the difference?"	
+"    Mean of differences (B - A)"	-0.4162
+"    SD of differences"	0.2607
+"    SEM of differences"	0.05018
+"    95% confidence interval"	"-0.5193 to -0.3130"
+"    R squared (partial eta squared)"	0.7257
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.8044
+"    P value (one tailed)"	<0.0001
+"    P value summary"	****
+"    Was the pairing significantly effective?"	Yes
