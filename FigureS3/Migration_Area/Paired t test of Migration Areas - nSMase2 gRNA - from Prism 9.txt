@@ -1,0 +1,26 @@
+"Table Analyzed"	"Migration Areas (Norm) - LOF"
+	
+"Column D"	"nSMase2 gRNA"
+vs.	vs.
+"Column C"	"Control gRNA"
+	
+"Paired t test"	
+"    P value"	0.0078
+"    P value summary"	**
+"    Significantly different (P < 0.05)?"	Yes
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=3.687, df=7"
+"    Number of pairs"	8
+	
+"How big is the difference?"	
+"    Mean of differences (D - C)"	-0.2510
+"    SD of differences"	0.1925
+"    SEM of differences"	0.06808
+"    95% confidence interval"	"-0.4120 to -0.09006"
+"    R squared (partial eta squared)"	0.6602
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.6387
+"    P value (one tailed)"	0.0441
+"    P value summary"	*
+"    Was the pairing significantly effective?"	Yes

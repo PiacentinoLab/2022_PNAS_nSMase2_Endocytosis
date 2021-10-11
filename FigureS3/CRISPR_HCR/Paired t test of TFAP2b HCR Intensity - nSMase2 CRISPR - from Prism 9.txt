@@ -1,0 +1,26 @@
+"Table Analyzed"	"TFAP2b HCR Intensity (Norm) - nSMase2 CRISPR"
+	
+"Column B"	"nSMase2 gRNA"
+vs.	vs.
+"Column A"	"Control gRNA"
+	
+"Paired t test"	
+"    P value"	0.2676
+"    P value summary"	ns
+"    Significantly different (P < 0.05)?"	No
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=1.222, df=6"
+"    Number of pairs"	7
+	
+"How big is the difference?"	
+"    Mean of differences (B - A)"	-0.07432
+"    SD of differences"	0.1609
+"    SEM of differences"	0.06082
+"    95% confidence interval"	"-0.2231 to 0.07451"
+"    R squared (partial eta squared)"	0.1993
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.9215
+"    P value (one tailed)"	0.0016
+"    P value summary"	**
+"    Was the pairing significantly effective?"	Yes
