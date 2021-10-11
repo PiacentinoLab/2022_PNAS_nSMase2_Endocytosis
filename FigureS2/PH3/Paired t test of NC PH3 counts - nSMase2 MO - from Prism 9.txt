@@ -1,0 +1,26 @@
+"Table Analyzed"	"Crest PH3 counts - nSMase2 MO"
+	
+"Column B"	"nSMase2 MO"
+vs.	vs.
+"Column A"	"Control MO"
+	
+"Paired t test"	
+"    P value"	0.3869
+"    P value summary"	ns
+"    Significantly different (P < 0.05)?"	No
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=0.9150, df=8"
+"    Number of pairs"	9
+	
+"How big is the difference?"	
+"    Mean of differences (B - A)"	0.3333
+"    SD of differences"	1.093
+"    SEM of differences"	0.3643
+"    95% confidence interval"	"-0.5067 to 1.173"
+"    R squared (partial eta squared)"	0.09474
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.6971
+"    P value (one tailed)"	0.0184
+"    P value summary"	*
+"    Was the pairing significantly effective?"	Yes

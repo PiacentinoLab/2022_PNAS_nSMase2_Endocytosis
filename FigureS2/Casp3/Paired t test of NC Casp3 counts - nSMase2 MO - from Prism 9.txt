@@ -1,0 +1,26 @@
+"Table Analyzed"	"Crest Casp3 counts - nSMase2 MO"
+	
+"Column B"	"nSMase2 MO"
+vs.	vs.
+"Column A"	"Control MO"
+	
+"Paired t test"	
+"    P value"	0.9181
+"    P value summary"	ns
+"    Significantly different (P < 0.05)?"	No
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=0.1094, df=4"
+"    Number of pairs"	5
+	
+"How big is the difference?"	
+"    Mean of differences (B - A)"	-0.06667
+"    SD of differences"	1.362
+"    SEM of differences"	0.6092
+"    95% confidence interval"	"-1.758 to 1.625"
+"    R squared (partial eta squared)"	0.002985
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.000
+"    P value (one tailed)"	0.5000
+"    P value summary"	ns
+"    Was the pairing significantly effective?"	No
