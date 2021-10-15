@@ -1,0 +1,26 @@
+"Table Analyzed"	"NC Marker HCR (dNT) - nSMase2 MO"
+	
+"Column D"	"nSMase2 MO"
+vs.	vs.
+"Column C"	"Control MO"
+	
+"Paired t test"	
+"    P value"	0.0498
+"    P value summary"	*
+"    Significantly different (P < 0.05)?"	No
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=2.309, df=8"
+"    Number of pairs"	9
+	
+"How big is the difference?"	
+"    Mean of differences (D - C)"	0.3108
+"    SD of differences"	0.4039
+"    SEM of differences"	0.1346
+"    95% confidence interval"	"0.0003764 to 0.6213"
+"    R squared (partial eta squared)"	0.3999
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.6001
+"    P value (one tailed)"	0.0438
+"    P value summary"	*
+"    Was the pairing significantly effective?"	Yes

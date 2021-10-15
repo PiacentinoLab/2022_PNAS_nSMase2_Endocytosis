@@ -1,0 +1,29 @@
+"Table Analyzed"	"MigrationArea - Ratios - Dyn1KA vs nSMase2 MO"
+	
+"Column B"	"nSMase2 MO"
+vs.	vs.
+"Column A"	m3::Dyn1(K44A)
+	
+"Unpaired t test"	
+"    P value"	0.0914
+"    P value summary"	ns
+"    Significantly different (P < 0.05)?"	No
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=1.728, df=42"
+	
+"How big is the difference?"	
+"    Mean of column A"	0.6725
+"    Mean of column B"	0.6034
+"    Difference between means (B - A) ± SEM"	"-0.06916 ± 0.04003"
+"    95% confidence interval"	"-0.1499 to 0.01163"
+"    R squared (eta squared)"	0.06634
+	
+"F test to compare variances"	
+"    F, DFn, Dfd"	"2.276, 26, 16"
+"    P value"	0.0901
+"    P value summary"	ns
+"    Significantly different (P < 0.05)?"	No
+	
+"Data analyzed"	
+"    Sample size, column A"	17
+"    Sample size, column B"	27

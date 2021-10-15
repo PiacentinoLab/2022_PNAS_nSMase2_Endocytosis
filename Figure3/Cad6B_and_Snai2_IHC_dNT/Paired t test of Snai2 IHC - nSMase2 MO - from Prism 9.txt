@@ -1,0 +1,26 @@
+"Table Analyzed"	"NC Marker IHC (dNT) - nSMase2 MO"
+	
+"Column B"	"nSMase2 MO"
+vs.	vs.
+"Column A"	"Control MO"
+	
+"Paired t test"	
+"    P value"	0.0194
+"    P value summary"	*
+"    Significantly different (P < 0.05)?"	Yes
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=3.020, df=7"
+"    Number of pairs"	8
+	
+"How big is the difference?"	
+"    Mean of differences (B - A)"	-0.2341
+"    SD of differences"	0.2193
+"    SEM of differences"	0.07752
+"    95% confidence interval"	"-0.4175 to -0.05083"
+"    R squared (partial eta squared)"	0.5658
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.6572
+"    P value (one tailed)"	0.0383
+"    P value summary"	*
+"    Was the pairing significantly effective?"	Yes

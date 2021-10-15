@@ -1,0 +1,26 @@
+"Table Analyzed"	"m3Dyn1KA for TCFLef::H2B-d2EGFP Intensity (CTCF)"
+	
+"Column B"	m3::Dyn1(K44A)
+vs.	vs.
+"Column A"	pBS
+	
+"Paired t test"	
+"    P value"	0.0023
+"    P value summary"	**
+"    Significantly different (P < 0.05)?"	Yes
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=5.078, df=6"
+"    Number of pairs"	7
+	
+"How big is the difference?"	
+"    Mean of differences (B - A)"	-0.4211
+"    SD of differences"	0.2194
+"    SEM of differences"	0.08292
+"    95% confidence interval"	"-0.6240 to -0.2182"
+"    R squared (partial eta squared)"	0.8112
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.5276
+"    P value (one tailed)"	0.1118
+"    P value summary"	ns
+"    Was the pairing significantly effective?"	No

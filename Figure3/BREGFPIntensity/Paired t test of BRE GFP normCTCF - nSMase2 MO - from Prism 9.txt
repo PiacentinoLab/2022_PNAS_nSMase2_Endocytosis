@@ -1,0 +1,26 @@
+"Table Analyzed"	"BRE::GFP Intensity (Norm)"
+	
+"Column B"	"nSMase2 MO"
+vs.	vs.
+"Column A"	"Control MO"
+	
+"Paired t test"	
+"    P value"	0.0016
+"    P value summary"	**
+"    Significantly different (P < 0.05)?"	Yes
+"    One- or two-tailed P value?"	Two-tailed
+"    t, df"	"t=4.982, df=7"
+"    Number of pairs"	8
+	
+"How big is the difference?"	
+"    Mean of differences (B - A)"	-0.3206
+"    SD of differences"	0.1820
+"    SEM of differences"	0.06435
+"    95% confidence interval"	"-0.4728 to -0.1685"
+"    R squared (partial eta squared)"	0.7800
+	
+"How effective was the pairing?"	
+"    Correlation coefficient (r)"	0.9611
+"    P value (one tailed)"	<0.0001
+"    P value summary"	****
+"    Was the pairing significantly effective?"	Yes
