@@ -7,8 +7,8 @@ library(viridis)
 library(seriation)
 library(ggplot2)
 
-raw_data <- as.data.frame(read.csv('../20211010 GO term name lipid sigDEGS featureCounts.csv'))
-outputname <- '20211010 GO term name lipid sigDEGS heatmap reflected.png'
+raw_data <- as.data.frame(read.csv('../20220210 GO term name lipid sigDEGS featureCounts.csv'))
+outputname <- '20220210 GO term name lipid sigDEGS heatmap reflected.png'
 
 counts <- raw_data
 rownames(counts) <- NULL
@@ -17,7 +17,7 @@ dim(counts)
 dat <- counts[,5:15]  # numerical columns
 dat<- as.matrix(dat)
 counts <- as.data.frame(counts)
-rownames(dat) <- counts$Gene.name
+rownames(dat) <- counts$GeneName
 dat[is.na(dat)] <- 0
 
 callback = function(hc, dat){
