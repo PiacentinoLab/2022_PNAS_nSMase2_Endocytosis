@@ -1,0 +1,13 @@
+"Number of families"	1					
+"Number of comparisons per family"	3					
+Alpha	0.05					
+						
+"Dunn's multiple comparisons test"	"Mean rank diff."	Significant?	Summary	"Adjusted P Value"	C-?	
+"  Control MO vs. nSMase2 MO"	53.50	Yes	**	0.0083	D	"nSMase2 MO"
+"  Control MO vs. nSMase2-FLAG"	-99.84	Yes	****	<0.0001	F	nSMase2-FLAG
+"  Control MO vs. nSMase2 MO +  nSMase2-FLAG"	-44.17	No	ns	0.0870	G	"nSMase2 MO +  nSMase2-FLAG"
+						
+"Test details"	"Mean rank 1"	"Mean rank 2"	"Mean rank diff."	n1	n2	Z
+"  Control MO vs. nSMase2 MO"	214.5	161.0	53.50	135	112	2.993
+"  Control MO vs. nSMase2-FLAG"	214.5	314.3	-99.84	135	163	6.134
+"  Control MO vs. nSMase2 MO +  nSMase2-FLAG"	214.5	258.7	-44.17	135	74	2.184

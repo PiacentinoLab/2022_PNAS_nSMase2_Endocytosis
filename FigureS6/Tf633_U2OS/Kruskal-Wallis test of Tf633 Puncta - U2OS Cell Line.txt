@@ -1,0 +1,13 @@
+"Table Analyzed"	"Tf633 Puncta - U2OS Cell Line"
+	
+"Kruskal-Wallis test"	
+"  P value"	<0.0001
+"  Exact or approximate P value?"	Approximate
+"  P value summary"	****
+"  Do the medians vary signif. (P < 0.05)?"	Yes
+"  Number of groups"	4
+"  Kruskal-Wallis statistic"	42.82
+	
+"Data summary"	
+"  Number of treatments (columns)"	4
+"  Number of values (total)"	150

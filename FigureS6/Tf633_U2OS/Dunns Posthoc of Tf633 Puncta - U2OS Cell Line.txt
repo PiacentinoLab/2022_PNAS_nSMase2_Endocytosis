@@ -1,0 +1,13 @@
+"Number of families"	1					
+"Number of comparisons per family"	3					
+Alpha	0.05					
+						
+"Dunn's multiple comparisons test"	"Mean rank diff."	Significant?	Summary	"Adjusted P Value"	A-?	
+"  RFP vs. Dyn1(K44A)"	42.72	Yes	****	<0.0001	B	Dyn1(K44A)
+"  RFP vs. nSMase2"	-26.91	Yes	*	0.0237	C	nSMase2
+"  RFP vs. nSMase2(N130A)"	3.018	No	ns	>0.9999	D	nSMase2(N130A)
+						
+"Test details"	"Mean rank 1"	"Mean rank 2"	"Mean rank diff."	n1	n2	Z
+"  RFP vs. Dyn1(K44A)"	80.99	38.27	42.72	50	35	4.466
+"  RFP vs. nSMase2"	80.99	107.9	-26.91	50	29	2.656
+"  RFP vs. nSMase2(N130A)"	80.99	77.97	3.018	50	36	0.3181

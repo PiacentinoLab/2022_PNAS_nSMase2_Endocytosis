@@ -1,0 +1,12 @@
+"Table Analyzed"	"Internal LRP6 CTCF - NC Explants"
+	
+"Column A"	"Control MO"
+vs.	vs.
+"Column B"	"nSMase2 MO"
+	
+"Kolmogorov-Smirnov test"	
+"    P value"	<0.0001
+"    Exact or approximate P value?"	Approximate
+"    P value summary"	****
+"    Significantly different (P < 0.05)?"	Yes
+"    Kolmogorov-Smirnov D"	0.3308
