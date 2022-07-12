@@ -1,5 +1,5 @@
-# 2021 Temporal changes in plasma membrane lipid content induce endocytosis to regulate developmental epithelial-to-mesenchymal transition
-Code and source data pertaining to Piacentino et al., 2021: Temporal changes in plasma membrane lipid content induce endocytosis to regulate developmental epithelial-to-mesenchymal transition
+# 2022 Temporal changes in plasma membrane lipid content induce endocytosis to regulate developmental epithelial-to-mesenchymal transition
+Code and source data pertaining to Piacentino et al., 2022: Temporal changes in plasma membrane lipid content induce endocytosis to regulate developmental epithelial-to-mesenchymal transition
 
 Text available at:
 bioRxiv: https://www.biorxiv.org/content/10.1101/2020.10.18.344523v2
