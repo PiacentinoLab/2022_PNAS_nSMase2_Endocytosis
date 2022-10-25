@@ -24,7 +24,6 @@ for(i=0;i<indirlist.length;i++){
 	
 	rename("A");
 	setTool("freehand");
-	run("Median...", "radius=1 slice");
 	run("Channels Tool...");
 	Stack.setDisplayMode("composite");
 	Stack.setChannel(1);
