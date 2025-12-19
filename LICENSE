@@ -3,7 +3,7 @@ All code in this repository (files with extensions .ijm, .Rmd, .R, .ipynb, and a
 All data and non‑code content (including CSV/TSV/other numeric data files, narrative text and figures within code notebooks, processed datasets, tables, figures and other content unless explicitly marked otherwise) are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0). See below for details.
 
 If a file explicitly states a different license or contains third‑party material under a different license, that file’s license applies to its contents. 
-Please cite this work as: Piacentino et al., 2024. SMPD3 expression is spatially regulated in the developing embryo by SOXE factors. Developmental Biology. 506:31-41. If you reuse the data, please include the citation and a link to this repository.
+Please cite this work as: Piacentino et al., 2022. Temporal changes in plasma membrane lipid content induce endocytosis to regulate developmental epithelial-to-mesenchymal transition. Proceedings of the National Academy of Sciences. 119:e2212879119. If you reuse the data, please include the citation and a link to this repository.
 
 CODE Licensing - MIT License
 Copyright (c) 2025 Michael Piacentino
